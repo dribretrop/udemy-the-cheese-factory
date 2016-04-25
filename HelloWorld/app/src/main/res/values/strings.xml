@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="calculate">Calculate</string>
+    <string name="setting">Setting</string>
+
+    <string name="welcome">Welcome to Clipzy</string>
+    <string name="welcome2">Clip anything from over 100,000 hot topic</string>
+    <string name="get_started">Get Started</string>
+</resources>
