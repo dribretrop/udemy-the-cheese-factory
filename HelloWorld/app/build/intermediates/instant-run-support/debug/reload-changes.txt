@@ -1,0 +1,2 @@
+CHANGED,D:\AndroidStudioProjects\UDEMY-Nunoui\HelloWorld\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\hehehaha\helloworld\CustomView$override.class
+CHANGED,D:\AndroidStudioProjects\UDEMY-Nunoui\HelloWorld\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

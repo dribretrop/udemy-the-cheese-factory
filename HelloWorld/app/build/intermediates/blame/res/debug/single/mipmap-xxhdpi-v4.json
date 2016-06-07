@@ -1,10 +1,6 @@
 [
     {
-        "merged": "C:\\Users\\Teerasak\\AndroidStudioProjects\\UdemyCouse\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Teerasak\\AndroidStudioProjects\\UdemyCouse\\HelloWorld\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\DEV\\UdemyCouse\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
-        "source": "D:\\DEV\\UdemyCouse\\HelloWorld\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "D:\\AndroidStudioProjects\\UDEMY-Nunoui\\HelloWorld\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioProjects\\UDEMY-Nunoui\\HelloWorld\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

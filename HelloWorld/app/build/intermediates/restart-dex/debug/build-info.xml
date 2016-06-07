@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="606641749171487" >
+
+    <task
+        name="javac"
+        duration="296" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="43" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="D:\AndroidStudioProjects\UDEMY-Nunoui\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+
+    <build timestamp="597538238416919" >
+        <artifact
+            location="D:\AndroidStudioProjects\UDEMY-Nunoui\HelloWorld\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="606413468432558" >
+        <artifact
+            location="D:\AndroidStudioProjects\UDEMY-Nunoui\HelloWorld\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build timestamp="606641749171487" >
+        <artifact
+            location="D:\AndroidStudioProjects\UDEMY-Nunoui\HelloWorld\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
